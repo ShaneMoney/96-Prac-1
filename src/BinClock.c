@@ -5,8 +5,8 @@
  * Further Modified By: Mark Njoroge 
  *
  * 
- * <STUDNUM_1> <STUDNUM_2>
- * Date
+ * MLLSHA035 MTWYON001
+ * Date 20 August 2021
 */
 
 #include <signal.h> //for catching signals
